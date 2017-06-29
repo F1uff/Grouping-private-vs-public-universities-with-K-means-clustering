@@ -1,4 +1,4 @@
-# Grouping-private-vs-public-universities-with-K-means-clustering
+# Grouping private vs public universities with K means clustering
 
 This notebook explores the college datset that is available from the Introduction to Statistical Learning book's website.
 
